@@ -1,0 +1,22 @@
+h1{
+    color:#10aa40;
+  
+}
+.header *{
+    background-color: aqua;
+    display:flex;
+    justify-content:space-around;
+   
+}
+ *{
+     border:groove;
+     background-color: violet;
+ } 
+ .grid h3{
+     color: yellow;
+ }
+ .grid h2{
+     color: brown;
+ }
+ 
+ 
